@@ -5,7 +5,8 @@ La idea principal es que por medio de Firebase se pueda tener un registro de can
 ## Tecnologías
 
 **JavaScript, HTML**
-**Base de datos:** https://firebase.google.com 
+
+**Base de datos:** Firebase (https://firebase.google.com) 
 
 
 ## Autores
